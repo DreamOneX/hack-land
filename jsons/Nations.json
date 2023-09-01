@@ -32,6 +32,8 @@
 "Enables conversion of city production to [Gold]", 
 "May not generate great prophet equivalents naturally", 
 "\"Borrows\" city names from other civilizations in the game",
+"Enables Research agreements",
+"Enables Defensive Pacts",
 //religion//
 "May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion", 
 //war//
@@ -43,5 +45,4 @@
 "New [All] units start with [200000] Experience [in all cities]", 
 "No movement cost to pillage",
 "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] }
- 
 ]
